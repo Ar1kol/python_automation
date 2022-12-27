@@ -9,7 +9,7 @@ from selenium.webdriver.chrome.service import Service
 app_path = os.path.dirname(sys.executable)
 
 website = "https://www.thesun.co.uk/sport/football/"
-chrome_driver_path = "Automate_News/chromedriver.exe"
+chrome_driver_path = "chromedriver.exe"
 
 # headless-mode
 options_parameters = Options()
